@@ -1,0 +1,12 @@
+<MotionDetection xmlns="http://www.hikvision.com/ver10/XMLSchema" version="1.0">
+<id>1</id>
+<enabled>true</enabled>
+<regionType>grid</regionType>
+<Grid>
+<rowGranularity>15</rowGranularity>
+<columnGranularity>22</columnGranularity>
+</Grid>
+<MotionDetectionRegionList>
+<sensitivityLevel>1</sensitivityLevel>
+</MotionDetectionRegionList>
+</MotionDetection>
