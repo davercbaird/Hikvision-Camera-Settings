@@ -1,9 +1,8 @@
 # Hikvision-Camera-Settings
-###Tool to connect and modify Hikvision camera "Motion Detection Settings".
+##Tool to connect and modify Hikvision camera "Motion Detection Settings".
 -- Hikvision-Camera-Settings -- Dave RC Baird 2017
 Tested on: Windows 7 64-bit
 Language: VB.NET
-
 
 
 This application will connect to your Hikvision camera and allow you to easily enable or disable motion detection for up to 8 cameras.
@@ -33,5 +32,3 @@ Screenshot:
 Not Implemented yet:
 - Load/Save Config
 - Sensitivity Display/Adjust
-- 
-
