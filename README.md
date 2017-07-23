@@ -24,6 +24,8 @@ Enter your camera IP address, Username, and Password.
 
 Click Connect to retrieve “Motion Enabled” status
 
+
+Screenshot:
 ![alt text](https://farm5.staticflickr.com/4304/36117098465_4043bdd32b_c.jpg%22%20width=%22800%22%20height=%22502%22%20alt=%22Hikvision-Camera-Settings)
 
 
