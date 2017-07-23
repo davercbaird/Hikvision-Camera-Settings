@@ -16,11 +16,10 @@ I have tested this on the following camera: DS-2CD2332-I, V5.4.5 build 170123 bu
 How to use:
 
 Run the Hikvision-Camera-Settings.exe
+
 Enter your camera IP address, Username, and Password.
+
 Click Connect to retrieve “Motion Enabled” status
 
 
-To Do:
-	-	
-	-	
-	-	
+To Do:	
