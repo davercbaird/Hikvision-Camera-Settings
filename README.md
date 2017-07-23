@@ -1,5 +1,5 @@
 # Hikvision-Camera-Settings
-##Tool to connect and modify Hikvision camera "Motion Detection Settings".
+### Tool to connect and modify Hikvision camera "Motion Detection Settings".
 -- Hikvision-Camera-Settings -- Dave RC Baird 2017
 Tested on: Windows 7 64-bit
 Language: VB.NET
